@@ -1,0 +1,5 @@
+this assignment is for computer science
+i will need to encode this 
+then i will decode this 
+there will be another file called coded file and it will have the code for the program 
+this file is for the decoded portion
